@@ -1,0 +1,2 @@
+# edowa
+wa bot ku
